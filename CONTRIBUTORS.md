@@ -150,6 +150,11 @@ to explore life. Also, Python and Django Developer
 - Bio: 5th semester IT Undergrad. Machine Learning enthusiast. Black coffee <3
 - GitHub: [Akshit Kharbanda](https://github.com/akshit04)
 
+### Name: [Mustafa Khan] (https://github.com/MustafaKhan026)
+- Place: Hyderabad,India
+- Bio: CSE Undergrad at MJCET Hydearbad
+- Github: [Mustafa Khan] (https://github.com/MustafaKhan026)
+
 #### Name: [Aldo Cano](https://github.com/aldocano)
 - Place: Tirana, Albania
 - Bio: A bug is never just a mistake...
